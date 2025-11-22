@@ -1,0 +1,7 @@
+2025-04-20,Food,Pizza lunch,250.0
+2025-04-20,Transport,Metro ticket,40.0
+2025-04-21,Shopping,New shoes,1200.0
+2025-04-21,Entertainment,Movie night,300.0
+2025-04-21,Health,Medicine,150.0
+2025-04-22,Bills,Electricity bill,900.0
+2025-04-26,Shopping,czn gift,1000.0

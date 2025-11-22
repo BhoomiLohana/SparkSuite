@@ -1,0 +1,5 @@
+2025-05-08,pizza,Lunch,1000.0
+2025-05-08,Shopping,Gifts,2000.0
+2025-05-08,Fees,Tution,1000.0
+2025-05-08,food,lunch,5000.0
+2025-05-08,shoping,gifts,1000.0
